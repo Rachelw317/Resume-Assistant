@@ -1,6 +1,6 @@
 # Resume Assistant
 
-一个基于 LangGraph 的简历优化流水线Demo。读取简历文件（docx, pdf）和职位描述(txt)，提取结构化信息，分析匹配度，生成优化后的简历内容，写入 Markdown 输出。
+一个基于 LangGraph 的简历优化助手。读取简历文件（docx, pdf）和职位描述(txt)，提取结构化信息，分析匹配度，生成优化后的简历内容，写入 Markdown 输出。
 
 ## 项目结构
 
